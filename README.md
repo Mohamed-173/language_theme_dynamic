@@ -9,9 +9,53 @@ A new Flutter project.
   * change counter and save to local storage dynamicaly
   
 example photos
+
 <img
   src="/assets/images/Screenshot_1664821287.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"> 
+  <img
+  src="/assets/images/Screenshot_1664822958.png"
+  width="200"
+  height="400"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-<!-- <img>https://github.com/Mohamed-173/language_theme_dynamic/blob/main/assets/images/Screenshot_1664821287.png</img> -->
+   <img
+  src="/assets/images/Screenshot_1664822987.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+  src="/assets/images/Screenshot_1664822994.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+  src="/assets/images/Screenshot_1664823005.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+  src="/assets/images/Screenshot_1664823011.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+  src="/assets/images/Screenshot_1664823016.png"
+  width="200"
+  height="400"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
