@@ -78,7 +78,7 @@ class Controller extends GetxController with StateMixin {
     final _prefs = await prefs;
     _prefs.setInt(countKey, count.value);
 
-    /// update methode like
+    /// update methode like notifirelistener
     update();
   }
 

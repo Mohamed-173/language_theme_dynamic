@@ -5,4 +5,9 @@ const Map<String, String> en = {
   "about": "about",
   "isDark": "theme",
   "userProfile": "userProfile",
+  "azkar": "astaghfirullah",
+  "add": "Add",
+  "reset": "reset",
+  "number": "No",
+  "clicks": "clicks",
 };

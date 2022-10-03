@@ -65,10 +65,10 @@ class _HomePageState extends State<HomePage> {
                   },
                   icon: const Icon(Icons.restart_alt_outlined)),
             ),
-            const Text("astaghfirullah"),
+            Text("azkar".tr),
             GetX<Controller>(
                 builder: (_) => Text(
-                      'clicks: ${controller.count}',
+                      "clicks".tr + " : " + ' ${controller.count}',
                     )),
             SizedBox(
               width: 150,
@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                 icon: const Icon(
                   Icons.add,
                 ),
-                label: const Text("ADDING"),
+                label: Text("add".tr),
                 style: ButtonStyle(
                   shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                     RoundedRectangleBorder(

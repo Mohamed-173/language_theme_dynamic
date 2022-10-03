@@ -5,4 +5,9 @@ const Map<String, String> ku = {
   "about": "دەربارە",
   "isDark": "دۆخی شاشە",
   "userProfile": "پڕۆفایلی بەکاربەر",
+  "azkar": "استغفرالله",
+  "add": "زیادکرن",
+  "reset": "نوێ کردنەوە",
+  "number": "ژمارە",
+  "clicks": "جار",
 };
