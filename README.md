@@ -12,7 +12,7 @@ example photos
 <img
   src="/assets/images/Screenshot_1664821287.png"
   width="400"
-  hieght="400"
+  height="800"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
